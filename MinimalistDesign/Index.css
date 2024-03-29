@@ -1,0 +1,100 @@
+body{
+
+    display: flex;
+    flex-direction: column;
+    background-color: #f3f3f3;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.presentation{
+
+    margin-top: 290px;
+    margin-left: 150px;
+    margin-right: 500px;
+
+}
+
+.project{
+
+    margin-right: 500px;
+
+}
+
+.presentation .title{
+
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-bottom: 20px;
+
+}
+
+a{
+
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    padding-right: 15px;
+
+}
+
+p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.caption1, .caption2, .captionA{
+
+    display: flex;
+
+}
+
+.captionA{
+
+    margin-top: 290px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+
+}
+
+.caption2{
+
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-bottom: 100px;
+
+}
+
+.description{
+
+    width: 280px;
+    margin-bottom: 160px;
+
+}
+
+.projectname{
+
+    font-weight: bold;
+
+}
+
+.projectimage{
+
+    width: 500px;
+    height: 300px;
+    margin: auto;
+
+}
+
+.kid{
+
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    padding-top: 150px;
+
+}
